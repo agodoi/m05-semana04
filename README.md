@@ -12,7 +12,7 @@
 
 ## FAÇA O DONWLOAD DESSE [RELATÓRIO](https://docs.google.com/document/d/1LkbReoAI1K1JSjQOJgL4Bmv3HBXjFxqiyweYZJd4Ekg/edit?usp=sharing)
 
-
+---
 ## Prática (1) - Teste de Condutividade do Diodo
 
 ## Nessa aula prática, vamos montar um relatório organizado e registrar os valores medidos e calculados
