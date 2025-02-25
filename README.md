@@ -99,9 +99,15 @@ Após a montagem...
 ### Responda:
 
 (a) Insira o multímetro na escala de corrente A~ entre o secundário e uma das entradas da ponde de diodo para medir a corrente total. Quanto tem de corrente total?
+
 (b) Insira o multímetro na escala de tensão no secundário do trafo, na escala de V~ para medir a tensão total de entrada. Quanto tem de tensão no secundário?
+
 (c) Coloque o CH1 do oscila nos terminais do secundário do trafo e observe a forma de onda. Qual o tipo de onda você está observando?
+
 (d) Coloque o CH2 do oscila nos terminais do R e observe a forma de onda. Qual o tipo de onda você está observando?
+
 (e) Remova o C do circuito e observe a forma de onda. Qual o tipo de onda você está observando?
+
 (f) Volte o C para o circuito. Insira o multímetro na escala de tensão V~ entre os terminais do R. Quanto tem de tensão?
+
 (g) Insira o multímetro na escala de tensão V= após o regulador de tensão. Quanto tem de tensão?
