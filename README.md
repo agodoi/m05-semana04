@@ -88,5 +88,5 @@ Responda:
 * Monte o circuito abaixo:
 * 
 
-<img src="https://github.com/agodoi/m05-semana04/blob/main/imgs/circuito-retificador-fianal.png" width="600">
+<img src="https://github.com/agodoi/m05-semana04/blob/main/imgs/circuito-retificador-final.png" width="600">
 
