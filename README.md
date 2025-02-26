@@ -35,11 +35,13 @@
 ## Prática (2) - Teste de Retificação do Diodo (Retificador de Meia Onda)
 
 
-Monte o circuito abaixo usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k ohms e um protoboard pequeno.
+Monte o circuito abaixo no **Tinkercad** usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k ohms e um protoboard pequeno.
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/oscilas-01.png" width="600">
 
-No desenho há 2 telas de osciloscópio, mas na sua bancada, você vai usar 2 canais **CH1** e **CH2** no mesmo osciloscópio.
+No desenho há 2 telas de osciloscópio, então adicione as duas.
+
+Mas se fosse o equipamento real de bancada, você usaria 2 canais **CH1** e **CH2** no mesmo osciloscópio.
 
 [Simulação disponível aqui](https://www.tinkercad.com/things/9RGCbPlLCHo-swanky-uusam/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=vf-AVNbVSZOR9WH4_qO6Z_5lJVH93FmJYmTr0_vttfM)
 
