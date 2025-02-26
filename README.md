@@ -39,14 +39,19 @@ Monte o circuito abaixo no **Tinkercad** usando 1 diodo **(D)** 1N4007, resistor
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/oscilas-01.png" width="600">
 
-No desenho há 2 telas de osciloscópio, então adicione as duas.
+### Configuração do osciloscópio do Tinkercad:
 
-Mas se fosse o equipamento real de bancada, você usaria 2 canais **CH1** e **CH2** no mesmo osciloscópio.
+* No desenho há 2 telas de osciloscópio, então adicione as duas na sua tela;
+* Configure o SEC/DIV (Tempo por divisão) de cada oscilas para **1ms** 
 
-[Simulação disponível aqui](https://www.tinkercad.com/things/9RGCbPlLCHo-swanky-uusam/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=vf-AVNbVSZOR9WH4_qO6Z_5lJVH93FmJYmTr0_vttfM)
+### Configuração do Gerador de Sinais no Tinkercad:
+
+* Freq. em 300Hz
+* Amplitude: 10Vp
+* Deslocamento: 0V
+* Função: seno
 
 ### Responda:
-
 
 (a) Usando o multímetro de bancada, coloque na escala 20V~ (tensão alternada em 20 volts) e confira se você tem 10V~ na saída do gerador de sinais. Ajuste o knob **AMPL** para **MIN** ou **MAX** até encontrar os 10V~.
 
