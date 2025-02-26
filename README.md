@@ -15,8 +15,6 @@
 ---
 ## Prática (1) - Teste de Condutividade do Diodo
 
-## Nessa aula prática, vamos preencher um relatório organizado e registrar os valores medidos e calculados
-
 ### 1) Configuração do Multímetro:
 
 * Ajustar o multímetro para o modo "Teste de Diodo" ou medição de tensão DC. Quando você está na escala de Diodo, o resultado na tela é sempre Volts.
@@ -38,6 +36,8 @@
 Monte o circuito abaixo no **Tinkercad** usando 1 diodo **(D)** 1N4007, resistor **(R)** de 1k ohms e um protoboard pequeno.
 
 <img src="https://github.com/agodoi/m05-semana03/blob/main/imgs/oscilas-01.png" width="600">
+
+E monte esse mesmo circuito na prática.
 
 ### Configuração do osciloscópio do Tinkercad:
 
